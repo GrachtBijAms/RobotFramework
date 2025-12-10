@@ -1,12 +1,8 @@
 /.DS_Store
 /.venv
-/geckodriver-1.log
-/geckodriver-2.log
-/geckodriver-3.log
-/geckodriver-4.log
-/geckodriver-5.log
+/geckodriver*.log
 /interactive_console_output.xml
 /log.html
 /output.xml
 /report.html
-/selenium-screenshot-1.png
+/selenium-screenshot*.png
